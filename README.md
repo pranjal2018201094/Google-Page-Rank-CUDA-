@@ -1,1 +1,1 @@
-# Google-Page-Rank-CUDA-
+# Google-Page-Rank-CUDA
