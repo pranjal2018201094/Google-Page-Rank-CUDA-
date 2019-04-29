@@ -6,7 +6,7 @@
 void main(){
 
     double damping_factor = 0.85;
-	FILE *fptr = fopen("input2.txt", "r");
+	FILE *fptr = fopen("input.txt", "r");
 
 	if (fptr == NULL){
 
